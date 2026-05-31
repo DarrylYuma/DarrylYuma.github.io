@@ -113,12 +113,12 @@ aside {
     text-transform: uppercase;
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
     font-weight: 700;
-    color: #fffa00;
+    color: #000000;
 }
 
 .navbar-default .navbar-header .navbar-brand:hover,
 .navbar-default .navbar-header .navbar-brand:focus {
-    color: #fffa00;
+    color: #000000;
 }
 
 .navbar-default .nav > li>a,
